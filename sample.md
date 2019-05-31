@@ -3,9 +3,9 @@
 <div id="sample"> hello sample css</div>
 
 
-<style>
+<style type="text/css">
 
-  .sample{
+  #sample{
     background-color:red;
   }
 </style>
