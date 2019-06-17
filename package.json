@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "validate html",
   "scripts": {
-    "test": "html-validator --file=../docs"
+    "test": "html-validator --file=./docs"
   },
   "author": "",
   "license": "ISC",
